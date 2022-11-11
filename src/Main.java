@@ -24,6 +24,12 @@ public class Main {
             }
         }
         System.out.print("\n"+"Максимум саны :"+max);
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
     }
 }
 
