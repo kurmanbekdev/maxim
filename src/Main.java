@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int[] numbers = {12, 23, 4, 11, 5, 6, 7, 8, 9, 29};//бул жерде белгилуу болгон массивдин сандарынан эн минимальный жана максимум санын чыгарып берет.
+        int[] numbers = {12, 23, 4, 11, 5, 6, 7, 8, 9, 29};
         array(numbers);
         temp(numbers);
     }
@@ -23,13 +23,7 @@ public class Main {
                 max = t[i];
             }
         }
-        System.out.print("\n"+"Максимум саны :"+max);
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
+        System.out.print("\n" + "Максимум саны :" + max);
     }
 }
 
